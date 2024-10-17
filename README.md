@@ -50,3 +50,8 @@ This is a Fraud Transaction Detection project. The fraud detection model describ
 ## Conclusion <br>
 * The Random Forest model demonstrates superior performance in identifying fraudulent transactions compared to the Decision Tree, primarily due to its ability to handle imbalanced classes more effectively and minimize false positives. <br>
 * The project highlights the importance of feature engineering, model selection, and evaluation in building an effective fraud detection system. <br>
+
+## Implementation <br>
+**Download the Dataset:** https://drive.google.com/uc?id=1VQ-HAm0oHbv0GmDKP2iqqFNc5aI91OLn&export=download <br>
+or 
+https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
