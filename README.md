@@ -1,7 +1,7 @@
 # Fraud-Transaction-Detection
 This is a Fraud Transaction Detection project. The fraud detection model described in the code is a machine learning pipeline designed to identify fraudulent activities in sales call data. Here’s a detailed overview of your project, including key steps, methodologies, findings, and evaluations:
 
-# Project Overview <br>
+## Project Overview <br>
 * Objective: To build predictive models for detecting fraudulent transactions using a dataset containing transaction details, including attributes such as transaction type, amount, and balances. <br>
 * Dataset: The dataset consists of 6,362,620 entries and 11 columns, with a significant class imbalance (99.87% legitimate transactions and 0.13% fraudulent transactions). <br>
 
